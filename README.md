@@ -1,4 +1,4 @@
-## Hi there, my name is jay-ahn 👋
+## Hi there, my name is jay 👋
 
 <!--
 **jaewooann/jaewooann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
