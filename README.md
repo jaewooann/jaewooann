@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 jay-ahn 입니다. 👋
 
 <!--
 **jaewooann/jaewooann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 방문자 수
+![방문자 수](https://workers-visitors.wodndi0321.workers.dev/visit?page=https://github.com/jaewooann)
