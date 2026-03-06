@@ -4,7 +4,7 @@
 
 **Frontend Developer**
 
-Mobile (React Native) · Web (Next.js) · Always Learning
+Cross-platform (React Native) · Web (Next.js) · Always Learning
 
 </div>
 
