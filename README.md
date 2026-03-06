@@ -12,11 +12,11 @@ Cross-platform (React Native) · Web (Next.js) · Always Learning
 
 ### About
 
-- React Native CLI 기반 모바일 앱 개발
-- Next.js / React 기반 웹 애플리케이션 개발
-- 사용자 경험을 최우선으로, 심플하고 유지보수 가능한 코드를 지향합니다
-- Based in South Korea
+- Building mobile apps with React Native CLI
+- Developing web applications with Next.js / React
+- Prioritizing user experience with simple, maintainable code
 - growing as an AI-native engineer
+- Based in South Korea
 
 ---
 
